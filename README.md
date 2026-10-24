@@ -181,9 +181,9 @@ Atmospheric anonymous-chat bot built with aiogram v3.
 ### 📡 `connect`
 
 [![GitHub](https://img.shields.io/badge/GitHub-TahaNasrollahii-0f0c29?style=for-the-badge&logo=github&logoColor=24c6dc)](https://github.com/TahaNasrollahii)
-[![Telegram](https://img.shields.io/badge/Telegram-Message_me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_ID)
-[![Email](https://img.shields.io/badge/Email-Contact-302b63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Telegram](https://img.shields.io/badge/Telegram-Message_me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TahaNasrollahi)
+[![Email](https://img.shields.io/badge/Email-Contact-302b63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahanasrollahii@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahanasrollahi)
 
 <br/>
 
