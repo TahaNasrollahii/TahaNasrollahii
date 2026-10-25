@@ -201,9 +201,7 @@ An application exploring how LLMs can support learning through generated educati
 
 ### 🔬 `what_i_care_about`
 
-</div>
-
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -249,6 +247,7 @@ An application exploring how LLMs can support learning through generated educati
 </tr>
 </table>
 
+</div>
 ---
 
 <!-- ═══════════════════════ CURRENTLY ═══════════════════════ -->
