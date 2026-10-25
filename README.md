@@ -248,7 +248,6 @@ An application exploring how LLMs can support learning through generated educati
 </table>
 
 </div>
----
 
 <!-- ═══════════════════════ CURRENTLY ═══════════════════════ -->
 
