@@ -1,19 +1,28 @@
- <!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=260&section=header&text=Taha%20Nasrollahi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEERING%20%E2%80%A2%20AGENTIC%20SYSTEMS%20%E2%80%A2%20PRODUCT%20BUILDING&descAlignY=60&descSize=16" width="100%" alt="Taha Nasrollahi — AI Engineering, Agentic Systems, Product Building"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=250&section=header&text=Taha%20Nasrollahi&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20BACK-END%2C%20FULL-STACK%20%26%20AI%20SYSTEMS&descAlignY=61&descSize=15" width="100%" alt="Taha Nasrollahi — Software Engineer · Back-End, Full-Stack & AI Systems"/>
 
 <br/>
 
-<a href="https://github.com/TahaNasrollahii">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=%3E+Building+AI-powered+products+and+intelligent+systems;%3E+From+backend+architecture+to+the+user+experience;%3E+Turning+ideas+into+working+software" alt="Typing introduction"/>
+<a href="https://taha-nasrollahi.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=84&lines=%3E+Architecting+scalable+Python+%26+TypeScript+backends;%3E+High-speed+Next.js+platforms+%26+distributed+async+pipelines;%3E+Multi-tenant+AI+agents%2C+RAG+%26+production-grade+systems" alt="Typing introduction"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=TahaNasrollahii&label=PROFILE+VIEWS&color=24c6dc&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/TahaNasrollahii?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29&label=FOLLOWERS" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/TahaNasrollahii?style=for-the-badge&logo=github&color=24c6dc&labelColor=0f0c29&label=TOTAL+STARS" alt="GitHub stars"/>
+<a href="https://taha-nasrollahi.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-taha--nasrollahi.vercel.app-24c6dc?style=for-the-badge&logo=vercel&logoColor=0f0c29&labelColor=0f0c29" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/tahanasrollahi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://t.me/TahaNasrollahi">
+  <img src="https://img.shields.io/badge/Telegram-@TahaNasrollahi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="mailto:tahanasrollahii@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-302b63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -25,29 +34,20 @@
 
 ### 🧬 `whoami`
 
-**AI Engineer & Product Builder**
-
-*Building intelligent systems, useful software, and products from the ground up.*
-
 </div>
 
-I'm Taha — a software developer interested in the intersection of **artificial intelligence, software engineering, and product development**.
-
-My work spans backend systems, API design, asynchronous processing, modern web applications, and LLM-powered features. I'm particularly interested in **AI agents that do more than generate text** — systems that can use tools, interact with services, process information, and solve practical problems.
-
-I enjoy exploring a product from end to end: understanding the problem, designing the architecture, building the backend, connecting the interfaces, and making the whole system work together.
+I'm **Taha Nasrollahi** — a Software Engineer focused on building **scalable backends, full-stack web platforms, distributed task pipelines, and AI-powered systems** from architecture and data modeling all the way to automated testing and production deployment.
 
 ```python
-class Taha:
-    focus = [
-        "AI Engineering",
-        "Agentic Systems",
-        "AI-Powered Products",
-        "Backend Architecture",
-        "Full-Stack Product Development",
-    ]
-
-    mindset = "Understand the system. Build the product. Keep improving."
+class TahaNasrollahi:
+    role = "Software Engineer · Back-End, Full-Stack & AI Systems"
+    current = "Software Engineer @ NimyChat (Multi-Tenant AI Agent SaaS)"
+    stack = {
+        "backend": ["Python", "Django / DRF", "FastAPI", "NestJS", "PostgreSQL", "Redis"],
+        "web_and_mobile": ["TypeScript", "Next.js 16", "React 19", "Payload CMS", "Kotlin"],
+        "async_and_ai": ["Celery", "RabbitMQ", "BullMQ", "pgvector RAG", "Docker", "CI/CD"],
+    }
+    principle = "Clean architecture. Tested pipelines. Reliable software in production."
 ```
 
 Outside engineering, I'm drawn to poetry, literature, and philosophy — different ways of exploring the same complicated thing: being human.
@@ -60,33 +60,31 @@ Outside engineering, I'm drawn to poetry, literature, and philosophy — differe
 
 ### ⚙️ `the_toolbox`
 
-#### Languages & Frameworks
+#### Languages, Frameworks & Web
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,django,fastapi,react,nextjs&perline=7" alt="Languages and frameworks"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,django,fastapi,nestjs,nextjs,react,tailwind,kotlin&perline=10" alt="Languages and frameworks"/>
 
-#### Backend, Data & Infrastructure
+#### Databases, Queues & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,docker,nginx,linux,git,github&perline=8" alt="Backend and infrastructure tools"/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,docker,githubactions,nginx,linux,git&perline=8" alt="Databases and infrastructure"/>
 
-<br/>
+<br/><br/>
 
-`Django REST Framework` · `SQLAlchemy` · `Pydantic` · `Celery` · `pytest` · `REST APIs`
+`Django REST Framework` · `Drizzle ORM` · `SQLAlchemy` · `Payload CMS 3` · `pgvector (RAG)`
 
-`LLM Integration` · `AI Agents` · `Asynchronous Systems` · `Background Jobs`
+`Celery` · `BullMQ` · `Pytest` · `Vitest` · `Playwright E2E` · `Technical SEO`
 
 </div>
 
-> My stack evolves with the problems I'm building to solve. The technologies above reflect tools I've worked with across my projects, not a claim of equal expertise in every one.
-
 ---
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+<!-- ═══════════════════════ SELECTED SYSTEMS ═══════════════════════ -->
 
 <div align="center">
 
-### 🚀 `selected_projects`
+### 🚀 `selected_work`
 
-*Different problems. Different architectures. One goal: build useful things.*
+*Production platforms, client deliveries, and open-source architectures.*
 
 </div>
 
@@ -94,217 +92,93 @@ Outside engineering, I'm drawn to poetry, literature, and philosophy — differe
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI Agent Platform
+### 🧠 NimyChat
+**Multi-Tenant AI Agent SaaS**
 
-**Multi-tenant AI product**
+Multi-tenant AI agent monorepo powering embeddable web widgets, OpenAI-compatible APIs, and human operator handoff.
 
-A platform for creating and deploying AI agents across different interfaces and integrations.
+- `NestJS` · `Next.js 16` · `Drizzle ORM` · `PostgreSQL 17 + pgvector` · `BullMQ`
+- Precision micro-USD credit ledger, live browser voice (`STT/TTS`), and native WooCommerce plugin
 
-- Agent experiences through shareable pages and embeddable widgets
-- API-oriented integrations
-- Product infrastructure and service integrations
-
-**Focus:** AI products · SaaS architecture · Integrations
+<a href="https://nimychat.ir/">Live Platform →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 Eventra
+### 🌿 Demetra
+**Trilingual B2B & Export Platform**
 
-**AI-powered monitoring and alerts**
+Multilingual (`FA / EN / ES`) agro-biotech sales & export platform built on `Next.js 16` and TOTP-hardened `Payload CMS 3`.
 
-A system that monitors RSS feeds and webpages, evaluates new content against natural-language rules, and delivers relevant alerts.
+- Interactive agronomic dosage calculator & B2B export inquiry funnel
+- **93+ mobile Lighthouse** · **100 SEO** · `229` Vitest + `88` Playwright E2E checks
 
-- LLM-powered content evaluation
-- Asynchronous processing with Celery and RabbitMQ
-- Redis, WebSockets, and monitoring infrastructure
-
-**Focus:** AI workflows · Event-driven systems · Automation
-
-<a href="https://github.com/TahaNasrollahii/Eventra">Explore Eventra →</a>
+<a href="https://demetra-web.vercel.app">Live Platform →</a>
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### ⚡ Titan
+**Omnichannel E-Commerce & Esports Hub**
+
+Full-stack gaming store and tournament ecosystem synchronizing a `Next.js 16` storefront with a `Django 5.2` REST API.
+
+- Automated `301` redirect chain flattening, dynamic `JSON-LD` SEO & signal-driven ISR
+- Fernet credential encryption & **385+ passing Pytest checks**
+
+<a href="https://titan-front.vercel.app">Live Storefront →</a> · <a href="https://github.com/TahaNasrollahii/titan-frontend">Source →</a>
+
+</td>
 <td width="50%" valign="top">
 
 ### 🎓 Kelaasor
+**Production Bootcamp Platform**
 
-**Bootcamp management platform**
+Core `Django 6` & `Django REST Framework` backend services (`40+` endpoints) for course catalogs, enrollments, and operations.
 
-A Django REST Framework backend for managing learning programs, students, and educational workflows.
+- Redis-throttled HTTP-only cookie OTP authentication & RBAC
+- **Buy Now Pay Later (BNPL)** multi-installment state machine & Celery SMS ticketing
 
-- Authentication and API development
-- Course and purchasing workflows
-- Automated testing and containerized deployment
-
-**Focus:** Django · REST APIs · Backend engineering
-
-<a href="https://github.com/TahaNasrollahii/kelaasor_advance">Explore Kelaasor →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Titan Store
-
-**Gaming products and digital services**
-
-A web storefront for gaming products, built with a Next.js frontend connected to a separate Django backend.
-
-- Modern React and Next.js interface
-- Product and shopping workflows
-- Frontend/backend integration
-
-**Focus:** Next.js · React · API integration
-
-<a href="https://github.com/TahaNasrollahii/titan-frontend">Explore the frontend →</a>
+<a href="https://kelaasor.com/">Live Platform →</a> · <a href="https://github.com/TahaNasrollahii/kelaasor_advance">Source →</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 NimyChat
+### 📦 Visika
+**Multi-Vendor B2B Wholesale Marketplace**
 
-**AI-powered conversational products**
+Decoupled `Django 6` service-layer backend paired with dual buyer and supplier portals in `Next.js 16`.
 
-An AI product focused on conversational experiences, voice-agent workflows, and business integrations.
+- Strict HTTP-only cookie `JWT + CSRF` security & SMS OTP rate-limiting
+- Asynchronous `Celery + Redis` background workers
 
-- Voice-agent and conversation workflows
-- WordPress and WooCommerce integration concepts
-- Connecting AI capabilities with real business operations
-
-**Focus:** AI applications · Voice workflows · Product engineering
+<a href="https://visika-frontend.vercel.app">Live Preview →</a> · <a href="https://github.com/TahaNasrollahii/visika_back">Source →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 StudyMate
+### 📡 Eventra & Briefly
+**Event-Driven AI & Audio Pipelines**
 
-**AI-assisted learning**
+Async `FastAPI` microservices isolating audio chunking, `Whisper` STT, and `LLaMA 3.3` inference across dedicated `RabbitMQ / Celery` queues.
 
-An application exploring how LLMs can support learning through generated educational content and structured study workflows.
+- Dead-letter queue handling, real-time `WebSocket` progress streaming & `Prometheus` metrics
 
-**Focus:** LLM applications · Learning tools · API development
-
-<a href="https://github.com/TahaNasrollahii/StudyMate">Explore StudyMate →</a>
+<a href="https://github.com/TahaNasrollahii/Eventra">Eventra →</a> · <a href="https://github.com/TahaNasrollahii/briefly">Briefly →</a>
 
 </td>
 </tr>
 </table>
-
----
-
-<!-- ═══════════════════════ ENGINEERING INTERESTS ═══════════════════════ -->
-
-<div align="center">
-
-### 🔬 `what_i_care_about`
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🤖 AI & Agentic Systems**
-
-- Tool-using AI agents
-- LLM-powered applications
-- Workflow automation
-- Integrating AI into real products
-
-</td>
-<td width="50%" valign="top">
-
-**🏗️ Software Engineering**
-
-- API design and backend architecture
-- Asynchronous processing
-- Databases, caching, and queues
-- Testing, reliability, and deployment
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🧩 Product Engineering**
-
-- Turning ideas into usable software
-- Connecting frontend and backend systems
-- Integrations with external services
-- Building across the stack
-
-</td>
-<td width="50%" valign="top">
-
-**📖 Beyond Code**
-
-- Poetry and literature
-- Philosophy and human nature
-- Questions without easy answers
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- ═══════════════════════ CURRENTLY ═══════════════════════ -->
-
-<div align="center">
-
-### 🔭 `currently`
-
-| | |
-|:---|:---|
-| 🤖 **Building** | AI-powered products and agentic systems |
-| 🏗️ **Exploring** | System design, scalable backends, and product architecture |
-| 🌐 **Working across** | Python, backend systems, and modern web applications |
-| 🎯 **Direction** | AI engineering and end-to-end product development |
-| 💬 **Talk to me about** | AI agents, LLM applications, Django, APIs, and software architecture |
-
-</div>
-
----
-
-<!-- ═══════════════════════ GITHUB ACTIVITY ═══════════════════════ -->
-
-<div align="center">
-
-### 📊 `github_stats`
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TahaNasrollahii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff&ring_color=24c6dc" alt="GitHub statistics"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaNasrollahii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=TahaNasrollahii&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=ff6b35&currStreakLabel=24c6dc" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=TahaNasrollahii&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub profile trophies"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
-
-<div align="center">
-
-### 📈 `contribution_graph`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TahaNasrollahii&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff&area=true&area_color=24c6dc&hide_border=true" width="100%" alt="GitHub contribution activity"/>
-
-</div>
 
 ---
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 
 <div align="center">
-
-### 🐍 `the_snake_eats_my_commits`
 
 <img src="https://raw.githubusercontent.com/TahaNasrollahii/TahaNasrollahii/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
 
@@ -318,10 +192,13 @@ An application exploring how LLMs can support learning through generated educati
 
 ### 📡 `connect`
 
-I'm always interested in connecting with people who build thoughtful software, explore AI, and turn ambitious ideas into working products.
+Open to **Software Engineer** roles (`Back-End` · `Full-Stack` · `AI`) and scoped **product / platform collaborations**.
 
-<a href="https://github.com/TahaNasrollahii">
-  <img src="https://img.shields.io/badge/GitHub-Follow-0f0c29?style=for-the-badge&logo=github&logoColor=24c6dc" alt="GitHub"/>
+<a href="https://taha-nasrollahi.vercel.app">
+  <img src="https://img.shields.io/badge/Website_&_Resume-Visit-24c6dc?style=for-the-badge&logo=googlechrome&logoColor=0f0c29&labelColor=0f0c29" alt="Portfolio & Resume"/>
+</a>
+<a href="https://www.linkedin.com/in/tahanasrollahi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://t.me/TahaNasrollahi">
   <img src="https://img.shields.io/badge/Telegram-Message_me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -329,18 +206,11 @@ I'm always interested in connecting with people who build thoughtful software, e
 <a href="mailto:tahanasrollahii@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get_in_touch-302b63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/tahanasrollahi">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 
 <br/><br/>
 
 *“Talk is cheap. Show me the code.”*
 
-<br/>
-
-*Build with curiosity. Engineer with intention.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
