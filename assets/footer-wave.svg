@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 84" width="1200" height="84" role="img" aria-label="Footer wave">
+  <defs>
+    <linearGradient id="footerWave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f0c29" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#302b63" stop-opacity="0.65"/>
+      <stop offset="100%" stop-color="#24c6dc" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="footerWave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#24c6dc" stop-opacity="0.22"/>
+      <stop offset="50%" stop-color="#514a9d" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#0f0c29" stop-opacity="0.85"/>
+    </linearGradient>
+    <clipPath id="footerClip">
+      <rect x="0" y="0" width="1200" height="84" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#footerClip)">
+    <path d="M0,28 C280,68 540,4 860,38 C1030,56 1130,24 1200,30 L1200,84 L0,84 Z" fill="url(#footerWave1)"/>
+    <path d="M0,48 C340,18 660,72 960,40 C1080,28 1150,44 1200,42 L1200,84 L0,84 Z" fill="url(#footerWave2)"/>
+  </g>
+</svg>

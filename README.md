@@ -1,7 +1,9 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=250&section=header&text=Taha%20Nasrollahi&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20BACK-END%2C%20FULL-STACK%20%26%20AI%20SYSTEMS&descAlignY=61&descSize=15" width="100%" alt="Taha Nasrollahi — Software Engineer · Back-End, Full-Stack & AI Systems"/>
+<a href="https://taha-nasrollahi.vercel.app">
+  <img src="https://raw.githubusercontent.com/TahaNasrollahii/TahaNasrollahii/main/assets/header-banner.svg" width="100%" alt="Taha Nasrollahi — Software Engineer · Back-End, Full-Stack & AI Systems"/>
+</a>
 
 <br/>
 
@@ -195,7 +197,7 @@ Async `FastAPI` microservices isolating audio chunking, `Whisper` STT, and `LLaM
 Open to **Software Engineer** roles (`Back-End` · `Full-Stack` · `AI`) and scoped **product / platform collaborations**.
 
 <a href="https://taha-nasrollahi.vercel.app">
-  <img src="https://img.shields.io/badge/Website_&_Resume-Visit-24c6dc?style=for-the-badge&logo=googlechrome&logoColor=0f0c29&labelColor=0f0c29" alt="Portfolio & Resume"/>
+  <img src="https://img.shields.io/badge/Website_%26_Resume-Visit-24c6dc?style=for-the-badge&logo=googlechrome&logoColor=0f0c29&labelColor=0f0c29" alt="Portfolio & Resume"/>
 </a>
 <a href="https://www.linkedin.com/in/tahanasrollahi/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -211,6 +213,6 @@ Open to **Software Engineer** roles (`Back-End` · `Full-Stack` · `AI`) and sco
 
 *“Talk is cheap. Show me the code.”*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=110&section=footer" width="100%" alt="Footer"/>
+<img src="https://raw.githubusercontent.com/TahaNasrollahii/TahaNasrollahii/main/assets/footer-wave.svg" width="100%" alt="Footer"/>
 
 </div>
